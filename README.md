@@ -137,11 +137,6 @@ Kontribusi, laporan bug, dan ide fitur sangat disambut:
 4. *Push* ke branch: `git push origin fitur/nama-fitur`
 5. Buka **Pull Request**
 
-## 📄 Lisensi
-
-<!-- Pilih lisensi (mis. MIT) dan tambahkan file LICENSE di root repo. -->
-Belum ditentukan. Tambahkan file `LICENSE` sebelum mempublikasikan repo.
-
 ## 🙏 Kredit
 
 - Font [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P) oleh CodeMan38
