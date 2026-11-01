@@ -15,18 +15,6 @@ Game **Flappy Bird** bergaya pixel art dengan tema **monokrom bernuansa horor**,
   <img src="docs/screenshot-gameover.png" width="240" alt="Game over">
 </p>
 -->
-
-## ✨ Fitur
-
-- **Visual monokrom** — hitam, putih, dan abu-abu dengan gaya pixel art.
-- **Cuaca dinamis** — cerah, hujan, atau badai petir dengan kilatan layar.
-- **Musik latar horor** — melodi minor disonan, bass, dan ritme drum yang dibuat secara prosedural dengan Web Audio API.
-- **Tingkat kesulitan adaptif** — setelah skor 50, kecepatan pipa naik, celah menyempit, dan pipa muncul lebih rapat; kesulitan maksimal dicapai di sekitar skor 150.
-- **Rekor tersimpan** — skor tertinggi disimpan di perangkat (`localStorage`).
-- **Tombol bisu** — matikan atau nyalakan suara kapan saja.
-- **Splash screen dan ikon launcher monokrom** — burung pixel dalam skala abu-abu.
-- **Antarmuka berbahasa Indonesia.**
-
 ## 🎮 Cara Bermain
 
 | Platform | Kontrol |
