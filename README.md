@@ -107,14 +107,6 @@ Aset splash monokrom tersedia sebagai patch resource Android (`pixelflap-splash-
 3. Pastikan dependensi `androidx.core:core-splashscreen` tersedia dan `AndroidManifest.xml` memakai `AppTheme.NoActionBarLaunch` sebagai tema peluncuran.
 4. Jalankan `npx cap sync android`, lalu build ulang.
 
-## 🗺️ Rencana Pengembangan
-
-- [ ] Jadikan game sepenuhnya offline: simpan Tailwind dan font secara lokal, lalu hapus izin `INTERNET` jika sudah tidak diperlukan
-- [ ] Ikon *themed* monokrom untuk Android 13+ (layer `<monochrome>` pada adaptive icon)
-- [ ] Papan peringkat online
-- [ ] Pilihan karakter dan latar
-- [ ] Rilis build *release* yang sudah ditandatangani
-
 ## 🤝 Kontribusi
 
 Kontribusi, laporan bug, dan ide fitur sangat disambut:
